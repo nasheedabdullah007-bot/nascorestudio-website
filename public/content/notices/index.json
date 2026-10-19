@@ -1,0 +1,15 @@
+{
+  "notices": [
+    {
+      "id": "notice-welcome",
+      "slug": "welcome",
+      "title": "Welcome to the official NASCORE STUDIO website",
+      "date": "2026-10-19",
+      "category": "Studio",
+      "summary": "Follow along here for releases, production updates, and announcements.",
+      "pinned": true,
+      "author": { "name": "NASCORE STUDIO", "role": "Editorial" },
+      "content": "# Welcome\n\nThanks for stopping by."
+    }
+  ]
+}
