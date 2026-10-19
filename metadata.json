@@ -1,0 +1,6 @@
+{
+  "name": "NASCORE STUDIO",
+  "description": "Official website for NASCORE STUDIO — Independent digital creator and entertainment media brand specializing in cinematic storytelling, gaming, documentaries, and creative productions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
