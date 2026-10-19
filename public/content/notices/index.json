@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-02-18T12:00:00Z",
+  "notices": [
+    {
+      "id": "notice-2025-01",
+      "slug": "welcome-to-nascore-studio-official-hub",
+      "title": "Welcome to the Official NASCORE STUDIO Hub",
+      "date": "2025-01-20",
+      "category": "Announcement",
+      "summary": "Welcome to our new official home base for cinematic storytelling, tactical gameplay breakdowns, and creative media productions.",
+      "pinned": true,
+      "author": {
+        "name": "NASCORE Core Team",
+        "role": "Creative Direction"
+      },
+      "content": "# Welcome to the New NASCORE STUDIO Hub\n\nWe are thrilled to launch the official home of **NASCORE STUDIO**. Over the past year, our community across YouTube, gaming, and digital culture has grown beyond what we ever anticipated. This website serves as our central hub for direct communication, project archives, and exclusive production updates.\n\n---\n\n### What to Expect Here\n\n* **Direct Broadcasts & Notices**: Get official project timelines, casting calls, and release dates before they hit social algorithms.\n* **Streamlined Video & Shorts Discovery**: Watch our complete library in high definition without distracting algorithmic rabbit holes.\n* **Documentary Archives**: Behind-the-scenes research, transcripts, and source materials for our investigative storytelling series.\n* **Zero Censorship or Algorithmic Filtering**: True creator-to-community updates.\n\n> *\"Cinema isn't just about big budgets — it's about bold perspective, uncompromising pacing, and ruthless attention to detail.\"*\n\n### Upcoming Slate for 2025\nWe are currently deep in post-production on two long-form video essays exploring internet media archaeology and tactical esports analysis. Stay tuned to the **Notices** tab for release dates and sneak peeks.\n\nThank you for being here from day one."
+    },
+    {
+      "id": "notice-2025-02",
+      "slug": "q1-documentary-production-schedule-update",
+      "title": "Q1 Production Schedule & Long-Form Video Slate",
+      "date": "2025-02-05",
+      "category": "Production",
+      "summary": "A breakdown of our upcoming documentary release timeline, sound design upgrades, and editing workflow enhancements.",
+      "pinned": false,
+      "author": {
+        "name": "Production Desk",
+        "role": "Post-Production Lead"
+      },
+      "content": "## Q1 Production Timeline & Studio Upgrades\n\nWe've received thousands of comments asking about the status of our next long-form video essay. Here is the official transparency update on our Q1 timeline:\n\n### 1. The Internet Media Archive Project\n* **Status**: 85% Edit Complete\n* **Target Release**: Late February 2025\n* **Runtime**: ~32 Minutes\n* **Focus**: An exhaustive investigation into forgotten creator networks, deleted videos, and the digital curators saving internet history.\n\n### 2. Audio & Visual Studio Upgrades\nTo elevate our production standards to true cinema-grade fidelity:\n- Upgraded to dedicated outboard compression and analog synth layering for all custom score tracks.\n- Implemented a unified color science workflow for 10-bit LOG footage.\n- Reduced render pipeline times to allow more iteration passes per cut.\n\nCheck back on our **Videos** page or subscribe on YouTube to catch the premiere notification!"
+    },
+    {
+      "id": "notice-2025-03",
+      "slug": "community-gaming-night-and-custom-lobbies",
+      "title": "Community Competitive Custom Lobbies Announcement",
+      "date": "2025-02-18",
+      "category": "Gaming",
+      "summary": "Join the NASCORE crew for our monthly competitive custom lobbies and tactical replay reviews.",
+      "pinned": false,
+      "author": {
+        "name": "Esports & Community",
+        "role": "Community Lead"
+      },
+      "content": "## Tactical Custom Lobbies & Community Night\n\nMark your calendars! This Friday evening, we are hosting our monthly community gaming session.\n\n### Event Details:\n* **When**: Friday at 8:00 PM EST\n* **Where**: Hosted live via our community Discord\n* **Format**: 5v5 Tactical Scrimmages & Replay Analysis\n* **Eligibility**: Open to all active community members\n\nTop clutch highlights will be edited and featured in an upcoming **NASCORE Shorts** compilation!"
+    }
+  ]
+}
